@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610831878955",
+    "project_id": "authentication-system-d8579",
+    "storage_bucket": "authentication-system-d8579.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610831878955:android:b4ae2548c704e698e3d36e",
+        "android_client_info": {
+          "package_name": "com.example.authentication_login_sign_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCpPhAfWu9j7RiN5j4qTU6BJKqGgUZQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
